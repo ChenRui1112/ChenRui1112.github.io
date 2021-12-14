@@ -33,7 +33,7 @@ code_word_wrap: false
 # copy settings
 # copyright: Add the copyright information after copied content (複製的內容後面加上版權信息)
 copy:
-  enable: true
+  enable: false
   copyright:
     enable: false
     limit_count: 50
@@ -84,8 +84,8 @@ favicon: /img/favicon.png
 
 # Avatar (頭像)
 avatar:
-  img: https://i.loli.net/2021/02/24/5O1day2nriDzjSu.png
-  effect: false
+  img: https://s2.loli.net/2021/12/14/Ow1GjnumhvfHyJc.png
+  effect: true
 
 # Disable all banner image
 disable_top_img: false
