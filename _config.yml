@@ -114,3 +114,9 @@ backup:
   repository:
     github: git@github.com:ChenRui1112/ChenRui1112.github.io.git,backup
 
+
+#Aplayer
+aplayer:
+  meting: true
+  asset_inject: false
+
