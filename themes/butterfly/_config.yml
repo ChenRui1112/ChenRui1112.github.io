@@ -814,7 +814,7 @@ pangu:
 lazyload:
   enable: true
   field: site # site/post
-  placeholder:
+  placeholder: https://s2.loli.net/2021/12/24/ncUiFX5lKaSDoZ4.gif
   blur: false
 
 # PWA
