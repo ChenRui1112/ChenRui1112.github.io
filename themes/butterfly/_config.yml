@@ -628,6 +628,7 @@ subtitle:
   # 如果關閉打字效果，subtitle只會顯示sub的第一行文字
   sub:
     - 所有的谎言，在此刻走到了尽头
+    - 8.6-11.6，一生最幸福的时光
 
 # Loading Animation (加載動畫)
 preloader: true
