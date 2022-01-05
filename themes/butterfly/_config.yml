@@ -17,9 +17,9 @@ menu:
   # Link: /link/ || fas fa-link
   # About: /about/ || fas fa-heart
 
-  首页: / || fas fa-home
-  时间轴: /archives/ || fas fa-archive
-  音乐: /music/ || fas fa-music
+  首页: / || fas fa-grin-tongue-squint
+  时间轴: /archives/ || fas fa-puzzle-piece
+  2022: /diary/ || fas fa-theater-masks
 
 # Hide the child menu items in mobile sidebar
 hide_sidebar_menu_child: false
@@ -434,7 +434,7 @@ tencent_analytics:
 
 # CNZZ Analytics
 # https://www.umeng.com/
-cnzz_analytics:
+cnzz_analytics: 1280735501
 
 # Cloudflare Analytics
 # https://www.cloudflare.com/zh-tw/web-analytics/
